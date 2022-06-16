@@ -1,0 +1,12 @@
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/bin/Debug/net6.0/Hasura.EventTriggers.deps.json
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/bin/Debug/net6.0/Hasura.EventTriggers.dll
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/bin/Debug/net6.0/Hasura.EventTriggers.pdb
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.csproj.AssemblyReference.cache
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.AssemblyInfoInputs.cache
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.AssemblyInfo.cs
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.csproj.CoreCompileInputs.cache
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.dll
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/refint/Hasura.EventTriggers.dll
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/Hasura.EventTriggers.pdb
+/Users/jonathan/repos/jmarbutt/Hasura.EventTriggers/Hasura.EventTriggers/obj/Debug/net6.0/ref/Hasura.EventTriggers.dll

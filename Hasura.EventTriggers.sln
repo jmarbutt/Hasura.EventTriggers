@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hasura.EventTriggers", "Hasura.EventTriggers\Hasura.EventTriggers.csproj", "{5BEDF423-3FA8-4C2E-AAB0-F783951D0C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleFuncApp", "SampleFuncApp\SampleFuncApp.csproj", "{20A0B7FD-72FE-4D65-BC47-12DEFF80FAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEDF423-3FA8-4C2E-AAB0-F783951D0C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEDF423-3FA8-4C2E-AAB0-F783951D0C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEDF423-3FA8-4C2E-AAB0-F783951D0C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEDF423-3FA8-4C2E-AAB0-F783951D0C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A0B7FD-72FE-4D65-BC47-12DEFF80FAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A0B7FD-72FE-4D65-BC47-12DEFF80FAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A0B7FD-72FE-4D65-BC47-12DEFF80FAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A0B7FD-72FE-4D65-BC47-12DEFF80FAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
