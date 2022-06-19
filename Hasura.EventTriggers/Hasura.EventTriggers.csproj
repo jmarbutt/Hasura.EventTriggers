@@ -4,6 +4,22 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>Hasura.EventTriggers</Title>
+        <Authors>Jonathan Marbutt</Authors>
+        <PackageProjectUrl>https://github.com/jmarbutt/Hasura.EventTriggers</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/jmarbutt/Hasura.EventTriggers</PackageLicenseUrl>
+        <PackageIcon>hasura-icon-primary.png</PackageIcon>
+        <RepositoryUrl>https://github.com/jmarbutt/Hasura.EventTriggers</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>Hasura</PackageTags>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="hasura-icon-primary.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
 
 </Project>

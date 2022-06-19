@@ -18,6 +18,7 @@ namespace SampleFuncApp
                 config.HasuraApiUrl = "https://localhost:8080/v1/metadata";
                 config.AdminSecret = "12345";
                 config.DefaultDatabaseType = DatabaseType.MsSql;
+                config.BaseWebHookUrl = "{WEB_HOOK_API}";
             });
 
 
