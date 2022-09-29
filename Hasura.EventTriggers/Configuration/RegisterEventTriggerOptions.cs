@@ -1,3 +1,5 @@
+using Hasura.EventTriggers.Models;
+
 namespace Hasura.EventTriggers.Configuration;
 
 public class RegisterEventTriggerOptions

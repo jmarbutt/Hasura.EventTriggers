@@ -7,12 +7,14 @@
         <Title>Hasura.EventTriggers</Title>
         <Authors>Jonathan Marbutt</Authors>
         <PackageProjectUrl>https://github.com/jmarbutt/Hasura.EventTriggers</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/jmarbutt/Hasura.EventTriggers</PackageLicenseUrl>
+        <PackageLicenseUrl></PackageLicenseUrl>
         <PackageIcon>hasura-icon-primary.png</PackageIcon>
         <RepositoryUrl>https://github.com/jmarbutt/Hasura.EventTriggers</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>Hasura</PackageTags>
-        <PackageVersion>1.0.2</PackageVersion>
+        <PackageVersion>1.0.3</PackageVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageReleaseNotes>This is an ALPHA release </PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
@@ -20,6 +22,10 @@
         <Pack>True</Pack>
         <PackagePath></PackagePath>
       </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RestSharp" Version="108.0.1" />
     </ItemGroup>
 
 </Project>

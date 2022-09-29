@@ -1,5 +1,6 @@
 using Hasura.EventTriggers;
 using Hasura.EventTriggers.Configuration;
+using Hasura.EventTriggers.Models;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using SampleFuncApp;
 using SampleFuncApp.Models;
